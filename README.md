@@ -13,9 +13,9 @@ DevOps course. Kubernetes homework. Nexign
 5. Создать приложение "client", которое обращается к "server" по указанному выше адресу и выводит ответ.
 6. Запустить Docker containers "server" и "client" через Docker compose.
 
-Docker-desktop был установлен заранее. Аккаунт docker-hub - 'beonewithyuri'
+Docker-desktop был установлен по ссылке - https://docs.docker.com/get-docker/ . Аккаунт docker-hub - `beonewithyuri`.
 
-'''shell
+```shell
 $ sudo docker info
 
 Client:
@@ -94,4 +94,4 @@ Server:
  Insecure Registries:
   127.0.0.0/8
  Live Restore Enabled: false
-'''
+```
